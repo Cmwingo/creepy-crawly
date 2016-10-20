@@ -1,0 +1,13 @@
+#snakes img {
+  float: left;
+}
+
+.col-md-4 img {
+  width: 70%;
+  float: left;
+  margin-right:5px;
+}
+
+p {
+  margin-bottom:10px;
+}
