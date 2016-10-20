@@ -2,6 +2,18 @@
   float: left;
 }
 
+#snakes {
+    display: none;
+}
+
+#turtles {
+  display: none;
+}
+
+#insects {
+  display: none;
+}
+
 .col-md-4 img {
   width: 70%;
   float: left;
